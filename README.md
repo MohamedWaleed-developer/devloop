@@ -70,7 +70,7 @@ It introduces the DevLoop branding while the application initializes its require
 - Smooth transition to the next screen
 
 <p align="center">
-  <img src="assets/README/01_splash.png" width="300" alt="DevLoop Splash Screen">
+  <img src="assets/README/splash.png" width="300" alt="DevLoop Splash Screen">
 </p>
 
 ---
@@ -89,7 +89,7 @@ It explains the application's core purpose and guides new users toward the authe
 - Easy transition to authentication
 
 <p align="center">
-  <img src="assets/README/02_onboarding.png" width="300" alt="DevLoop Onboarding">
+  <img src="assets/README/onboarding.png" width="300" alt="DevLoop Onboarding">
 </p>
 
 ---
@@ -126,7 +126,7 @@ Users can authenticate using their email address and password.
 - Navigation after successful authentication
 
 <p align="center">
-  <img src="assets/README/03_login.png" width="300" alt="DevLoop Login Screen">
+  <img src="assets/README/login.png" width="300" alt="DevLoop Login Screen">
 </p>
 
 ---
@@ -146,7 +146,7 @@ During registration, the application creates the authentication account and prep
 - Firebase Authentication integration
 
 <p align="center">
-  <img src="assets/README/04_register.png" width="300" alt="DevLoop Register Screen">
+  <img src="assets/README/register.png" width="300" alt="DevLoop Register Screen">
 </p>
 
 ---
@@ -165,7 +165,7 @@ The application uses Firebase Authentication to send the password reset process 
 - Validation and error handling
 
 <p align="center">
-  <img src="assets/README/05_forgot_password.png" width="300" alt="DevLoop Forgot Password">
+  <img src="assets/README/forgot_password.png" width="300" alt="DevLoop Forgot Password">
 </p>
 
 ---
@@ -198,7 +198,7 @@ It displays developer posts in a scrolling feed where users can discover technic
 - Social interactions
 
 <p align="center">
-  <img src="assets/README/06_home.png" width="300" alt="DevLoop Home Feed">
+  <img src="assets/README/home.png" width="300" alt="DevLoop Home Feed">
 </p>
 
 ---
@@ -229,7 +229,7 @@ The Create Post experience allows the user to select the appropriate post type a
 - Form validation
 
 <p align="center">
-  <img src="assets/README/07_create_post.png" width="300" alt="DevLoop Create Post">
+  <img src="assets/README/create_post.png" width="300" alt="DevLoop Create Post">
 </p>
 
 ---
@@ -311,7 +311,7 @@ DevLoop supports multiple reactions to make social interaction more expressive t
 - Real-time social interaction
 
 <p align="center">
-  <img src="assets/README/08_post_reactions.png" width="300" alt="DevLoop Post Reactions">
+  <img src="assets/README/post_reactions.png" width="300" alt="DevLoop Post Reactions">
 </p>
 
 ---
@@ -331,7 +331,7 @@ Comments are stored as part of the post's data structure and are connected direc
 - Firestore integration
 
 <p align="center">
-  <img src="assets/README/09_comments.png" width="300" alt="DevLoop Comments">
+  <img src="assets/README/comments.png" width="300" alt="DevLoop Comments">
 </p>
 
 ---
@@ -424,7 +424,7 @@ The search experience is designed specifically around developer profiles rather 
 - Firestore integration
 
 <p align="center">
-  <img src="assets/README/10_search.png" width="300" alt="DevLoop Developer Search">
+  <img src="assets/README/search.png" width="300" alt="DevLoop Developer Search">
 </p>
 
 ---
@@ -446,7 +446,7 @@ Notifications can represent important interactions related to the user's social 
 The notification system is connected to Firestore and provides a centralized place for user activity updates.
 
 <p align="center">
-  <img src="assets/README/11_notifications.png" width="300" alt="DevLoop Notifications">
+  <img src="assets/README/notifications.png" width="300" alt="DevLoop Notifications">
 </p>
 
 ---
@@ -479,7 +479,7 @@ Depending on the available profile data, developers can present information such
 - Developer-focused presentation
 
 <p align="center">
-  <img src="assets/README/12_profile.png" width="300" alt="DevLoop Developer Profile">
+  <img src="assets/README/profile.png" width="300" alt="DevLoop Developer Profile">
 </p>
 
 ---
@@ -500,7 +500,7 @@ This allows users to keep their professional information current.
 - Firestore profile updates
 
 <p align="center">
-  <img src="assets/README/13_edit_profile.png" width="300" alt="DevLoop Edit Profile">
+  <img src="assets/README/edit_profile.png" width="300" alt="DevLoop Edit Profile">
 </p>
 
 ---
